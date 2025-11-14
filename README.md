@@ -1,8 +1,6 @@
-# ProSysMonitor
-ProSysMonitor - Advanced System Monitoring Tool
+#ProSysMonitor - Advanced System Monitoring Tool
 A comprehensive system monitoring utility written in C, providing real-time insights into system resources, process management, and performance analysis.
-
-Features
+#Features
 Real-time monitoring of:
 CPU Usage (with EMA smoothing)
 Memory Utilization
@@ -23,11 +21,9 @@ Detailed Reporting:
 Resource usage logging
 Performance analytics
 Process tree visualization
-Prerequisites
+#Prerequisites
 Linux environment (Tested on Ubuntu 22.04 LTS)/ Windows
 GCC compiler
 Make build system
-Installation
-# Clone repository
-git clone https://github.com/Alokik24/ProSysMonitor.git
+
 Check the attached report for further details.
